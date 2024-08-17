@@ -1,4 +1,4 @@
-#Autonomous Synthetic Bio-Colonies (ASBC)
+##Autonomous Synthetic Bio-Colonies (ASBC)
 #Vision and Innovation
 The Autonomous Synthetic Bio-Colonies (ASBC) project envisions a groundbreaking future where robotic colonies can evolve, adapt, and interact autonomously in decentralized environments, all while being governed securely and transparently via blockchain technology. By integrating genetic algorithms, synthetic biology-inspired systems, and Ethereum smart contracts, ASBC seeks to revolutionize the intersection of robotics, artificial intelligence, and decentralized networks.
 
